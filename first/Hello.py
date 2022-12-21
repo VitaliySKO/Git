@@ -4,4 +4,6 @@ def plus(a, b):
 
 if __name__ == '__name_':
     print(plus(2, 3))
+    print("Hello")
+
 
